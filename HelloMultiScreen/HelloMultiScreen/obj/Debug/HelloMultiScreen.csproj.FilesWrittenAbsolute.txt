@@ -1,0 +1,14 @@
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/bin/Debug/HelloMultiScreen.dll.mdb
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/bin/Debug/HelloMultiScreen.dll
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/bin/Debug/HelloMultiScreen.HelloMultiScreen.apk
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/android/bin/HelloMultiScreen.HelloMultiScreen.apk
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/res/layout/main.xml
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/res/values/strings.xml
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/res/drawable/icon.png
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/res/layout/second.xml
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/R.cs.flag
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/bin/Debug/HelloMultiScreen.HelloMultiScreen-Signed.apk
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/uploadflags.txt
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/HelloMultiScreen.dll
+/Users/jesse.rogers/GitRepos/first_repo/HelloMultiScreen/HelloMultiScreen/obj/Debug/HelloMultiScreen.dll.mdb
